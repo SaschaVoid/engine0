@@ -3,9 +3,6 @@ logs
 *.log
 npm-debug.log*
 
-# CSS
-/public/style/*.css
-
 # Runtime data
 pids
 *.pid
